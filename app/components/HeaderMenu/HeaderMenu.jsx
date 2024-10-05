@@ -8,12 +8,21 @@ import Image from "next/image";
 const HeaderMenu = () => {
   return (
     <div className="headerMenu">
-      <Image
-        src="/Images/Headline Ads.png"
-        alt="My Logo"
-        height={40}
-        width={1920}
-      />
+      <div className={styles.headerMenuAd}>
+        <Image
+          src="/Images/Vector 18.png"
+          alt="My Logo"
+          width={6}
+          height={12}
+        />
+        <p>Free same-day delivery on orders $35+ when you order by 2PM.</p>
+        <Image
+          src="/Images/Vector 17.png"
+          alt="My Logo"
+          width={6}
+          height={12}
+        />
+      </div>
       <div className="menuBG">
         <Image
           src="/Images/Logo_Petfood.png"

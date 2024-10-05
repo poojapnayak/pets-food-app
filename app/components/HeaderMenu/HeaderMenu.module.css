@@ -66,17 +66,14 @@
   text-align: left;
 }
 
-.headerMenu-images {
-  /* display: flex;
+.headerMenuAd {
+  display: flex;
+  gap: 30px;
+  background: #195f6b;
+  color: white;
+  height: 40px;
   align-items: center;
   justify-content: center;
-  width: 48px;
-  height: 48px;
-  position: absolute;
-  top: 66px;
-  left: 1537px;
-  background: #eff0f4;
-  border-radius: 50%; */
 }
 
 .heart-image {

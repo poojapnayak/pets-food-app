@@ -6,7 +6,7 @@ const ProductGallery = () => {
   return (
     <div className={styles["productGallery"]}>
       <p className={styles["productGallery-title"]}>
-        BASED ON VETERINARY DOCTOR'S
+        BASED ON VETERINARY DOCTOR&apos;S
       </p>
       <h2>Some Of Our Favourites To Care For Their Whole Health</h2>
       <div className={styles["productGallery-group"]}>
