@@ -223,6 +223,12 @@
   width: 70px;
   height: 18px;
   opacity: 0.8px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.productGallery-rectangles1 h3 {
+  margin-left: 10px;
 }
 
 .productGallery-rectangles1 button {
@@ -280,6 +286,12 @@
   width: 70px;
   height: 18px;
   opacity: 0.8px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.productGallery-rectangles2 h3 {
+  margin-left: 10px;
 }
 
 .dogFace-image {
