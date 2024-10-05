@@ -1,0 +1,101 @@
+.connectUs {
+  width: 1396px;
+  height: 500px;
+  position: absolute;
+  top: 5577px;
+  left: 262px;
+  display: flex;
+  gap: 20px;
+  background: #eff0f4;
+  border-radius: 10px;
+  justify-content: space-around;
+}
+
+.connectUsLeft {
+  display: block;
+  width: 536px;
+  height: 291px;
+  margin-top: 130px;
+}
+
+.connectUsLeft h1 {
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 45px;
+  text-align: left;
+}
+
+.connectUsLeft p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.checkboxContainer {
+  display: flex;
+  gap: 30px;
+}
+
+.checkBox {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+}
+
+.checkBox input {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  border: 1px solid #444444;
+}
+
+.checkBox p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.newletterBtn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+  width: 419px;
+  height: 60px;
+  border-radius: 80px;
+  border: 1px solid #e3e3e3;
+  margin-top: 40px;
+}
+
+.newletterBtn input {
+  width: 500px;
+  margin-left: 30px;
+  border: none;
+  outline: none;
+  color: #616161;
+  font-family: Poppins;
+  font-size: 20px;
+}
+
+.newletterBtn button {
+  width: 180px;
+  height: 50px;
+  border-radius: 80px;
+  background: black;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.connectUsRight {
+  display: flex;
+  align-items: bottom;
+  justify-content: bottom;
+  margin-top: 90px;
+}

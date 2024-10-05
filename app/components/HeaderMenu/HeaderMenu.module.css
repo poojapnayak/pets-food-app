@@ -1,0 +1,113 @@
+.logo-petfood {
+  position: absolute;
+  top: 65px;
+  left: 120px;
+}
+
+.header-menu-list {
+  display: flex;
+  width: 347px;
+  position: absolute;
+  height: 33px;
+  top: 74px;
+  left: 403px;
+  gap: 40px;
+}
+
+.header-dropdown-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 33px;
+  text-align: left;
+  padding: 2px;
+  color: #112025;
+}
+
+.searchText-container {
+  display: flex;
+  width: 547px;
+  height: 60px;
+  position: absolute;
+  top: 60px;
+  left: 950px;
+  padding: 14px 8px 14px 16px;
+  gap: 10px;
+  border-radius: 8px;
+  opacity: 0.8;
+  background: #eff0f4;
+  border: 1px solid #11202514;
+}
+
+.searchText-container-image {
+  width: 32px;
+  height: 32px;
+  padding: 4px 5.21px 5.86px 4.65px;
+  opacity: 0.5;
+}
+
+.searchText-container p {
+  width: 154px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0.5;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+
+.searchText {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+
+.headerMenu-images {
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  top: 66px;
+  left: 1537px;
+  background: #eff0f4;
+  border-radius: 50%; */
+}
+
+.heart-image {
+  top: 74px;
+  left: 1545px;
+  position: absolute;
+}
+
+.user-image {
+  position: absolute;
+  top: 74px;
+  left: 1633px;
+}
+
+.cat-bag-image {
+  position: absolute;
+  top: 74px;
+  left: 1721px;
+}
+
+.cat-bag-count {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 66px;
+  left: 1741px;
+  background: #fdc161;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 14px;
+  color: #112025;
+}

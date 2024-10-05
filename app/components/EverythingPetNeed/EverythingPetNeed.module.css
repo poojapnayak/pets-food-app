@@ -1,0 +1,117 @@
+.everythingPetNeed {
+  position: absolute;
+  width: 1923px;
+  height: 694px;
+  top: 2713px;
+}
+
+.everythingPetNeedHeader {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.everythingPetNeedHeader h2 p {
+  color: rgb(17, 194, 197);
+}
+
+.everythingPetNeedBtn {
+  width: 271px;
+  height: 60px;
+  border-radius: 8px;
+  padding: 18px;
+  opacity: 0.8;
+  border: none;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
+  color: #112025;
+  justify-content: space-around;
+  background: none;
+}
+
+.everythingPetNeedContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 70px;
+}
+
+.everythingPetNeedContainer p {
+  height: 44px;
+  width: 192px;
+  border: 1px solid #112025;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.greyscaleImage {
+  border-radius: 10px;
+  opacity: 0.36;
+  position: relative;
+}
+
+.greyscaleImage p {
+  align-items: center;
+  position: absolute;
+  top: 17px;
+  left: 75px;
+}
+
+.maxwellImage {
+  position: relative;
+}
+
+.maxwellImage p {
+  align-items: center;
+  position: absolute;
+  top: 17px;
+  left: 75px;
+  color: white;
+  border: 1px solid #eff0f4;
+  font-weight: 200;
+}
+
+.dogsImage {
+  position: relative;
+}
+
+.dogsImage p {
+  position: absolute;
+  top: 17px;
+  left: 56px;
+  font-weight: 300;
+  width: 248px;
+}
+
+.birdsImage {
+  position: relative;
+}
+
+.birdsImage p {
+  position: absolute;
+  top: 17px;
+  left: 104px;
+  width: 143px;
+  color: white;
+  border: 1px solid #eff0f4;
+  font-weight: 500;
+}
+
+.petAccesories {
+  opacity: 0.36;
+  position: relative;
+}
+
+.petAccesories p {
+  position: absolute;
+  top: 226px;
+  left: 83px;
+  font-weight: 200;
+  width: 185px;
+  font-weight: 500;
+}

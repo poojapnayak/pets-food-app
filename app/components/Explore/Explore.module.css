@@ -1,0 +1,86 @@
+.explore {
+  width: 1680px;
+  height: 763px;
+  position: absolute;
+  top: 4672px;
+  left: 120px;
+}
+
+.exploreParagraphTexts h1 {
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+  line-height: 45px;
+}
+
+.exploreParagraphTexts p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  padding-bottom: 40px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.boldText {
+  color: black;
+  font-weight: bold;
+}
+
+.exploreContainer {
+  display: flex;
+  gap: 20px;
+}
+
+.exploreProductrectangle {
+  display: block;
+  text-align: center;
+  width: 405px;
+  height: 238px;
+  gap: 0px;
+  border-radius: 16px 16px 0px 0px;
+  opacity: 0px;
+  background: #16bac614;
+  border: 1px solid #195f6b29;
+  padding: 30px;
+}
+
+.exploreProductrectangle h1 {
+  margin-top: 30px;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: center;
+  width: 335px;
+  height: 108px;
+  opacity: 0.92;
+  color: #195f6b;
+}
+
+.instaText {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding: 10px;
+}
+
+.instTextTime {
+  margin-bottom: 20px;
+}
+
+.imageTextsParag {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  color: #112025cc;
+  text-align: left;
+  padding: 8px;
+}
+
+.instaTextParag {
+  line-height: 21px;
+  color: #112025;
+  text-align: left;
+  font-size: 16px;
+  font-weight: bold;
+}

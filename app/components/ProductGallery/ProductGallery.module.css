@@ -1,0 +1,304 @@
+.productGallery {
+  width: 1920px;
+  height: 1000px;
+  position: absolute;
+  top: 841px;
+}
+
+.productGallery-title {
+  width: 605px;
+  position: absolute;
+  height: 24px;
+  top: 60px;
+  left: 657.5px;
+  opacity: 0.5;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.productGallery h2 {
+  width: 605px;
+  height: 90px;
+  position: absolute;
+  top: 106px;
+  left: 676px;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 45px;
+  text-align: center;
+  color: #112025;
+}
+
+.productGallery-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1396px;
+  height: 80px;
+  position: absolute;
+  top: 242px;
+  left: 262px;
+  border-radius: 8px;
+  border: 1px solid #bec8c8;
+  /* opacity: 0.2; */
+}
+
+.productGallery-item {
+  display: flex;
+  width: 227px;
+  height: 56px;
+  /* position: absolute; */
+  top: 254px;
+  left: 323px;
+  gap: 10px;
+  border-radius: 4px;
+  padding: 16px 80px 16px 80px;
+}
+
+.productGallery-item p {
+  display: flex;
+  width: 33px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 16px;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+.productGallery-container {
+  display: flex;
+  gap: 15px;
+  width: 1396px;
+  height: 546px;
+  position: absolute;
+  top: 362px;
+  left: 262px;
+}
+
+.productGallery-image1 {
+  border-radius: 5px;
+}
+
+.food-combo {
+  position: absolute;
+  top: 43px;
+  left: 10px;
+  padding: 5px;
+  font-size: 18px;
+  opacity: 0.8;
+  font-size: 12px;
+  font-weight: 500;
+  color: #112025;
+}
+
+.productGallery-image h3 {
+  width: 176px;
+  height: 48px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  color: #112025;
+  position: absolute;
+  top: 73px;
+  left: 15px;
+}
+
+.productGallery-image button {
+  width: 114px;
+  height: 39px;
+  padding: 9px 18px 9px 18px;
+  gap: 10px;
+  border-radius: 8px;
+  background: #112025;
+  color: white;
+  position: absolute;
+  top: 143px;
+  left: 15px;
+}
+
+.productGallery-yellowbox {
+  width: 405px;
+  height: 546px;
+  background: #fdc161;
+  border-radius: 5px;
+}
+
+.productGallery-yellowbox h3 {
+  width: 176px;
+  height: 48px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  color: #112025;
+  position: absolute;
+  top: 46px;
+  left: 695px;
+}
+
+.productGallery-yellowbox p {
+  width: 227px;
+  height: 5px;
+  font-size: 16px;
+  /* font-weight: 600; */
+  line-height: 24px;
+  text-align: left;
+  color: #112025;
+  position: absolute;
+  top: 108px;
+  left: 655px;
+}
+
+.productGallery-yellowbox button {
+  width: 114px;
+  height: 39px;
+  padding: 9px 18px 9px 18px;
+  gap: 10px;
+  border-radius: 8px;
+  background: #112025;
+  color: white;
+  position: absolute;
+  top: 185px;
+  left: 714px;
+}
+
+.productGallery-peanutImage {
+  width: 215px;
+  height: 307px;
+  position: absolute;
+  top: 227px;
+  left: 668px;
+  border-radius: 8px;
+  box-shadow: 24px 24px 40px 0px #00000029;
+}
+
+.productGallery-rectangles1 {
+  display: flex;
+  width: 405px;
+  height: 263px;
+  top: 362px;
+  left: 1253px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0.16px;
+}
+
+.productGallery-rectangles p {
+  position: absolute;
+  top: 67px;
+  right: 317px;
+}
+
+.productGallery-rectangles h3 {
+  position: absolute;
+  top: 100px;
+  right: 45px;
+}
+
+.productGallery-meat {
+  width: 200px;
+  height: 263px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.productGallery-rectangles1 {
+  border: 1px solid rgba(247, 240, 240, 0.966);
+  border-radius: 15px;
+}
+
+.productGallery-rectangles1 p {
+  margin-top: 20px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  width: 70px;
+  height: 18px;
+  opacity: 0.8px;
+}
+
+.productGallery-rectangles1 button {
+  width: 114px;
+  height: 39px;
+  padding: 9px 18px 9px 18px;
+  gap: 10px;
+  border-radius: 20px;
+  background: #112025;
+  color: white;
+  position: absolute;
+  top: 108px;
+  right: 276px;
+}
+
+.productGallery-rectangles2 {
+  display: flex;
+  width: 405px;
+  height: 263px;
+  top: 645px;
+  left: 1253px;
+  gap: 0px;
+  border-radius: 8px;
+  background: #d2f1f8;
+  margin-top: 20px;
+}
+
+.productGallery-elencodog {
+  width: 200px;
+  height: 263px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.productGallery-rectangles2 button {
+  width: 114px;
+  height: 39px;
+  padding: 9px 18px 9px 18px;
+  gap: 10px;
+  border-radius: 20px;
+  background: #112025;
+  color: white;
+  position: absolute;
+  top: 409px;
+  right: 276px;
+}
+
+.productGallery-rectangles2 p {
+  margin-top: 20px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  width: 70px;
+  height: 18px;
+  opacity: 0.8px;
+}
+
+.dogFace-image {
+  display: flex;
+  width: 227px;
+  height: 56px;
+  position: absolute;
+  top: 254px;
+  left: 323px;
+  gap: 10px;
+  border-radius: 4px;
+  padding: 16px 80px 16px 80px;
+  background: black;
+}
+
+.dogFace-image p {
+  color: white;
+}

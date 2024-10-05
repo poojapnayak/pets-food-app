@@ -1,0 +1,110 @@
+.bestProduct {
+  width: 1680px;
+  height: 629px;
+  position: absolute;
+  top: 3527px;
+  left: 120px;
+}
+
+.bestProductHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.headerTexts p {
+  width: 605px;
+  height: 24px;
+  font-size: 16px;
+  font-weight: 500;
+  opacity: 0.5;
+  letter-spacing: 2%;
+  line-height: 24px;
+}
+
+.headerTexts h2 {
+  width: 605px;
+  height: 45px;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 45px;
+}
+
+.bestProductBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 221px;
+  height: 60px;
+  top: 3536px;
+  left: 1438px;
+  gap: 10px;
+  border-radius: 8px;
+  opacity: 0.4;
+  border: none;
+  font-weight: 700;
+  font-size: 14px;
+  margin-right: 40px;
+  background: none;
+}
+
+.bestProductContainer {
+  display: flex;
+  width: 1680px;
+  height: 412px;
+  padding-top: 50px;
+}
+
+.bestProductContainer {
+  text-align: center;
+}
+
+.starIcons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.bestProductTexts p {
+  padding: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.itemPrices {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.itemPriceNew {
+  font-size: 16px;
+  font-weight: 600;
+  align-items: center;
+}
+
+.itemPriceOld {
+  font-size: 16px;
+  font-weight: 400;
+  align-items: center;
+  text-decoration: line-through;
+}
+
+.verticalScroll {
+  width: 1680px;
+  top: 4156px;
+  left: 120px;
+  border: 1px solid #eff0f4;
+  margin-top: 50px;
+}
+
+.verticalScroll .holder {
+  margin-left: 50px;
+  width: 400px;
+  top: 4156px;
+  left: 201px;
+  border: 3px solid #16bac6;
+  border-radius: 10px;
+}
